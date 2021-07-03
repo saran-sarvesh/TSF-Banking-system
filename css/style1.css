@@ -1,0 +1,81 @@
+
+.navbar-dark {
+  background-color: #0a07b1d7; }
+  
+*{
+  font-family: 'Montserrat', sans-serif;
+}  
+.container h2{
+    text-align: center;
+    background-color: rgb(48, 19, 155);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 7px;
+}
+
+
+
+.welcome h2{
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  background-color: rgb(11, 22, 172);
+  border-radius: 10px;
+}
+
+.welcome h2 strong{
+  color: aliceblue;
+}
+
+.welcome h2:hover{
+  transform: scale(1.01);
+  background-color: rgb(41, 52, 153);
+}
+h3{
+  margin: 28px;
+  padding: 5px;
+  text-align: center;
+  background-color: rgba(50, 26, 156, 0.945);
+  border-radius: 10px;
+}
+
+h3:hover{
+  transform: scale(1.01);
+  background-color: rgb(48, 19, 155);
+}
+
+#hover1{
+  width: 200px;
+  font-weight:bolder;
+   background-color: rgba(50, 26, 156, 0.945);
+   border-radius: 5px;
+   text-align: center;
+   height: 100px;
+   line-height: 100px;
+ 
+   
+}
+#hover1:hover{
+  transform: scale(1.1);
+  background-color: rgb(48, 19, 155);
+
+}
+#hover2{
+  width: 200px;
+  font-weight:bolder;
+  background-color:rgba(50, 26, 156, 0.945);
+  border-radius: 5px;
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+
+}
+#hover2:hover{
+  transform: scale(1.1);
+  background-color: rgb(48, 19, 155);
+}
+
+.form-control{
+  height: 40px;
+  width: 250px;
+}

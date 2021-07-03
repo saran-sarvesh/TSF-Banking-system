@@ -1,0 +1,23 @@
+{
+  "name": "php",
+  "version": "1.0.0",
+  "description": "<h3>The Sparks Foundation Internship Project : Basic Banking System</h3> A Dynamic Website is used to transfer money between 10 users.<br> Stack used - <h4>Front-end : HTML, CSS, Bootstrap &amp; Javascript</h4> <h4>Back-end : PHP</h4> <h4>Database : MySQL</h4> The Database contains two Tables- Users Table &amp; Transaction Table <br> The User table have basic fields such as name, email &amp; current balance. <br> The Transaction table records all transfers happened along with their time. <br> The Flow of the Website: <br> Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.<br> <h3>Live Project Link : https://fogged-mask.000webhostapp.com/</h3>",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "url": "git+https://jogesh_k_muppala@bitbucket.org/jogesh_k_muppala/git-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
